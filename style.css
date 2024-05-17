@@ -1,0 +1,147 @@
+.home {
+    font-family: "Akaya Telivigala", cursive;
+    font-size: 20px;
+    background-image: url("https://cdn.pixabay.com/photo/2017/09/10/01/37/coffee-2734137_960_720.jpg");
+    background-size: cover;
+}
+
+.navbar a:hover {
+    background-color: #654321;
+}
+
+table {
+    font-family: "Akaya Telivigala", cursive;
+    width: auto;
+    margin-right: 0px;
+    margin-top: 50px;
+    border-style: solid;
+}
+
+.navbar {
+    opacity: 0.8;
+    font-size: 25px;
+}
+
+.center {
+    text-align: center;
+    font-size: 50px;
+    color: #654321;
+}
+
+.bg {
+    background-color: #654321;
+}
+
+.title {
+    font-family: "Euphoria Script", cursive;
+    color: navajowhite;
+    font-size: 70px;
+}
+
+.shop {
+    font-family: "Lobster Two", cursive;
+    color: navajowhite;
+}
+
+.shoptitle {
+    color: navajowhite;
+    font-family: "Euphoria Script", cursive;
+    font-size: 70px;
+}
+
+.address {
+    text-align: right;
+    color: #654321;
+}
+
+.container-fluid {
+    color: navajowhite;
+}
+
+h1 {
+    text-align: center;
+    color: #654321;
+    font-size: 50px;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.dine {
+    font-family: "Euphoria Script", cursive;
+    color: #654321;
+    text-align: center;
+    font-size: 100px;
+    text-shadow: 2px 2px 3px#654321, 0 0 1em #654321, 0 0 0.2em #493017;
+    color: #361f07;
+}
+
+.table {
+    border: 2px solid navajowhite;
+    color: navajowhite;
+}
+
+td {
+    border: 2px solid navajowhite;
+    text-align: center;
+    color: navajowhite;
+}
+
+th {
+    border: 2px solid navajowhite;
+    text-align: center;
+    color: navajowhite;
+}
+
+.hr {
+    background-color: #654321;
+}
+
+.img {
+    text-align: center;
+}
+
+.table {
+    text-align: center;
+}
+
+.flyer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.help {
+    color: navajowhite;
+    font-family: "Euphoria Script", cursive;
+    font-size: 70px;
+}
+
+.card-title {
+    color: #654321;
+}
+
+.info {
+    color: #654321;
+}
+
+.periods {
+    color: white;
+}
+
+.aspca {
+    font-size: 19px;
+}
+
+.dt {
+    font-size: 16.55px;
+}
+
+.bf {
+    font-size: 19px;
+}
